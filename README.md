@@ -5,21 +5,7 @@ This repo is a collection of assignments and mini-programs/projects for beginner
 
 Try to complete each task without looking at the solution!
 
-- [ ] 1
-- [ ] 2
+- [x] 1
+- [ ] 2 
 - [ ] 3
 - [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
-- [ ] 9
-- [ ] 10
-- [ ] 11
-- [ ] 12
-- [ ] 13
-- [ ] 14
-- [ ] 15
-- [ ] 16
-- [ ] 17
-- [ ] 
