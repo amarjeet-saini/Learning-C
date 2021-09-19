@@ -5,7 +5,12 @@ This repo is a collection of assignments and mini-programs/projects for beginner
 
 Try to complete each task without looking at the solution!
 
+TASK
 - [x] 1
-- [ ] 2 
-- [ ] 3
-- [ ] 4
+- [x] 2 
+- [x] 3
+- [x] 4
+- [] 5
+- [] 6
+- [] 7
+- [] 8
